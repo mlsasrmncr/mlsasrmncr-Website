@@ -33,8 +33,10 @@ Make changes to files on your local machine work on the issue you're assigned.
 Now we have to add changes that we made to the branch so for that we will run following command.
 
 > git add .
+
 Now we have to commit changes, commit message should always be clear, to commit use command below 
-NOTE:- Always add the issue number in your commit for easyness. And alwas push something under a issue only.
+
+*NOTE:- Always add the issue number in your commit for easyness. And alwas push something under a issue only.*
 
 > git commit -m "resolved the \<issue\>"
 

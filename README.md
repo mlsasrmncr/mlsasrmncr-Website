@@ -26,10 +26,10 @@ create a new branch using below command.
 > git checkout -b \<branch-name\>
 e.g. `git checkout -b mybranch`
 
-### step 4 Lets make some contributions
+### step 5 Lets make some contributions
 Make changes to files on your local machine work on the issue you're assigned. 
 
-### step 5 Add Changes and Commit Changes
+### step 6 Add Changes and Commit Changes
 Now we have to add changes that we made to the branch so for that we will run following command.
 
 > git add .
@@ -40,7 +40,7 @@ Now we have to commit changes, commit message should always be clear, to commit 
 
 > git commit -m "resolved the \<issue\>"
 
-### step 6 Push changes to GitHub
+### step 7 Push changes to GitHub
 Now we have to push the changes that we made to remote repository on specified branch to do so use command below.
 
 > git push origin \<branch-name\>
@@ -48,7 +48,7 @@ name of branch is same as you created in step 3
 
 e.g `git push origin mybranch`
 
-### step 7 Repeat steps 5-6 till development is complete
+### step 8 Repeat steps 5-7 till development is complete
 All additional commits, please [squash to first](https://davidwalsh.name/squash-commits-git)
 
 >e.g:
@@ -56,7 +56,7 @@ All additional commits, please [squash to first](https://davidwalsh.name/squash-
 git rebase -i main
 git push --force origin <branch name>
 ```
-### step 8 Update current branch and local master by pulling changes that were done by other contributors:
+### step 9 Update current branch and local master by pulling changes that were done by other contributors:
 >e.g:
 ```
 git checkout main
@@ -64,7 +64,7 @@ git pull upstream main
 git push origin main
 ```
 
-### step 9 Rebase your branch over your updated master
+### step 10 Rebase your branch over your updated master
 >e.g:
 ```
 git checkout <bramch name>
@@ -77,11 +77,11 @@ and then just run:
 >e.g:
 `git rebase --continue`
 
-### step 10 Push branch to GitHub
+### step 11 Push branch to GitHub
 >e.g:
 `git push --force origin my-new-check`
 
-### step 11 Submit your changes for review
+### step 12 Submit your changes for review
 Once you have pushed your code to GitHub, it's now time to create pull request, you will go to the repository click on compare and pull request and submit the pull request.
 
 Soon, we will be merging all your pull requests to the main branch of project and you will also get notification once your pull request is merged with existing code base. After that you will be able to see your details in contributor section on the page below.

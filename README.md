@@ -48,7 +48,40 @@ name of branch is same as you created in step 3
 
 e.g `git push origin mybranch`
 
-### step 7 Submit your changes for review
+### step 7 Repeat steps 5-6 till development is complete
+All additional commits, please [squash to first](https://davidwalsh.name/squash-commits-git)
+
+>e.g:
+```
+git rebase -i main
+git push --force origin <branch name>
+```
+### step 8 Update current branch and local master by pulling changes that were done by other contributors:
+>e.g:
+```
+git checkout main
+git pull upstream main
+git push origin main
+```
+
+### step 9 Rebase your branch over your updated master
+>e.g:
+```
+git checkout <bramch name>
+git rebase main
+```
+>In the process of the rebase, it may discover conflicts.
+In that case it will stop and allow you to fix the conflicts.
+After fixing conflicts, use git add . to update the index with those contents,
+and then just run:
+>e.g:
+`git rebase --continue`
+
+### step 10 Push branch to GitHub
+>e.g:
+`git push --force origin my-new-check`
+
+### step 11 Submit your changes for review
 Once you have pushed your code to GitHub, it's now time to create pull request, you will go to the repository click on compare and pull request and submit the pull request.
 
 Soon, we will be merging all your pull requests to the main branch of project and you will also get notification once your pull request is merged with existing code base. After that you will be able to see your details in contributor section on the page below.

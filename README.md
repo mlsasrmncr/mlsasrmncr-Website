@@ -18,6 +18,10 @@ To clone the repository go to your account open this repo and either click on cl
 > git clone "URL you just copied"
 e.g. git clone https://github.com/mlsasrmncr/mlsasrmncr-Website/
 
+> Configure remotes: (Important)
+
+`git remote add upstream https://github.com/mlsasrmncr/mlsasrmncr-Website`
+
 ### step 4 Create a branch
 On your local machine go the project folder that you cloned and use following git command inside that folder
 

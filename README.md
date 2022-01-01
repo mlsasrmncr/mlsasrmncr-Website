@@ -86,6 +86,6 @@ and then just run:
 `git push --force origin my-new-check`
 
 ### step 12 Submit your changes for review
-Once you have pushed your code to GitHub, it's now time to create pull request, you will go to the repository click on compare and pull request and submit the pull request.
-
+Once you have pushed your code to GitHub, it's now time to create pull request, you will go to the repository click on compare and pull request, don't forget to add the issue number in the pull request description and submit the pull request.
+Good example of pull request: [PR#6](https://github.com/mlsasrmncr/mlsasrmncr-Website/pull/6)
 Soon, we will be merging all your pull requests to the main branch of project and you will also get notification once your pull request is merged with existing code base. After that you will be able to see your details in contributor section on the page below.

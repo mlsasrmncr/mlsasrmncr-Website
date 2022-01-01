@@ -1,1 +1,9 @@
+body { 
+    background: #353535 !important; 
+}
 
+.miniLogo{
+    left: 30px;
+    top: 17px;
+    position: absolute;
+}

@@ -1,3 +1,9 @@
+
+<p align="center">
+  <h1>Microsoft Learn Student Ambassadors Club SRM-NCR</h1>
+<img src="https://github.com/mlsasrmncr/mlsasrmncr-Website/blob/main/img/mlsa-gif_logo.gif"></a>
+</p>
+
 # mlsasrmncr-Website
 A website for MLSA SRM NCR 
 

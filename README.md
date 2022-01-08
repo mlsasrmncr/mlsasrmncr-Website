@@ -15,3 +15,29 @@ Don't know how to begin with your first contribution. Don't worry we got you cov
 Just check it out here!! 💡
 
 [How to contribute!](https://github.com/mlsasrmncr/mlsasrmncr-Website/wiki)
+
+# Our Team Leads 🌟
+President 👑  [Aman Bhatt](https://github.com/bhattcodes) 
+
+Technical Team Lead 👨‍💻 [Vinayak Raj](https://github.com/vinayak0127)
+
+Creative Team Lead 😎 [Abhinandan Katoch](http://github.com/abhinandankatoch)
+
+Corporate Lead 👨‍💼 [Kartik Srivardhan](https://github.com/Cartikx3)
+
+Club Advisor 👨‍🎓 [Ankit Pathak](https://github.com/GAAROS)
+
+Club Secretary 🙎 Shruti Bibra & Srishti Alhawat
+
+Associate Club Advisor: [Anurag Podder](https://github.com/drkanurag)
+
+Associative Creative Lead: Nitin Chaudhary
+
+Associate Corporate Lead: [Pallav Verma](https://github.com/Pallav14730) & [Darpan Khanna](https://github.com/darpankhanna)
+
+**Github Management Team** ⚙️✨
+
+[Harshit Singh](https://github.com/HarshuSingh) ;
+[Khushi Sharma](https://github.com/Khushi-sharma07) ;
+[Abhinav Rajput](https://github.com/AbhinavRajputEXE) ;
+[Devanshu Sinha](https://github.com/ArthrowAbstract)

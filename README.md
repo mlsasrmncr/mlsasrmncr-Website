@@ -37,7 +37,7 @@ Associate Corporate Lead: [Pallav Verma](https://github.com/Pallav14730) & [Darp
 
 **Github Management Team** ⚙️✨
 
-[Harshit Singh](https://github.com/HarshuSingh) ;
 [Khushi Sharma](https://github.com/Khushi-sharma07) ;
+[Harshit Singh](https://github.com/HarshuSingh) ;
 [Abhinav Rajput](https://github.com/AbhinavRajputEXE) ;
 [Devanshu Sinha](https://github.com/ArthrowAbstract)

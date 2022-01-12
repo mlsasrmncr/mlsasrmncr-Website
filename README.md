@@ -1,11 +1,14 @@
-
 <p align="center">
-  <h1>Microsoft Learn Student Ambassadors Club SRM-NCR</h1>
+  <h1>Microsoft Learn Student Ambassadors Club SRM-NCR <img src="https://user-images.githubusercontent.com/80591258/149213592-fe481e19-1b83-47c3-89ae-68bd1790102f.png" width="31"></h1>
 <img src="https://github.com/mlsasrmncr/mlsasrmncr-Website/blob/main/img/mlsa-gif_logo.gif"></a>
 </p>
 
+<div style="page-break-after: always;"></div>
+
 # About MLSA Club SRM NCR 📜💡
 Microsoft MLSA Club SRM is a technical club, under the wing of Microsoft Learn Student Ambassadors, showcasing and nurturing talents under the well known and esteemed name of the organisation, to carry forth and express it's legacy. We conduct events all over campus (and outside campus), inspiring students to pursue knowledge, in their own unique ways. Along with this, we aspire to give the push they need through our club's work, and through training in the various domains that we provide.
+
+<hr>
 
 # Our Team Leads 🌟
 President 👑  [Aman Bhatt](https://github.com/bhattcodes) 
@@ -28,15 +31,15 @@ Associate Corporate Lead: [Pallav Verma](https://github.com/Pallav14730) & [Darp
 
 **Github Management Team** ⚙️✨
 
-[Khushi Sharma](https://github.com/Khushi-sharma07) ;
-[Harshit Singh](https://github.com/HarshuSingh) ;
-[Abhinav Rajput](https://github.com/AbhinavRajputEXE) ;
+[Khushi Sharma](https://github.com/Khushi-sharma07) | 
+[Harshit Singh](https://github.com/HarshuSingh) | 
+[Abhinav Rajput](https://github.com/AbhinavRajputEXE) | 
 [Devanshu Sinha](https://github.com/ArthrowAbstract)
 
 
+<hr>
+
 # How To Contribute?🤔
 Don't know how to begin with your first contribution. Don't worry we got you covered. 
-Just check it out here!! 💡
-
-[How to contribute!](https://github.com/mlsasrmncr/mlsasrmncr-Website/wiki)
+Just check it out [**HERE**](https://github.com/mlsasrmncr/mlsasrmncr-Website/wiki)!! 💡
 

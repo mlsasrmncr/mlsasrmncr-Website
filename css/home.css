@@ -4,6 +4,8 @@ body {
 html {
     overflow: scroll;
     overflow-x: hidden;
+    margin: 0;
+    padding: 0;
 }
 ::-webkit-scrollbar {
     width: 0;  /* Remove scrollbar space */
@@ -13,3 +15,76 @@ html {
 ::-webkit-scrollbar-thumb {
     background: #FF0000;
 }
+
+#text1{
+    font-family: 'DM Sans'; font-style: normal;
+    font-weight: bold;
+    font-size: 400px;
+    font-size: 6.5vw;
+    background-image: linear-gradient(90.14deg, #BA7ECF 2.9%, #F19ED0 23.1%, #948DF2 44.99%, #B9C2FF 75.22%, #FBCEA5 101.86%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 100%;
+    
+}
+
+#text2{
+    font-family: 'DM Sans'; font-style: normal;
+    font-weight: bold;
+    font-size: 400px;
+    font-size: 2.5vw;
+    background-image: linear-gradient(90.14deg, #BA7ECF 2.9%, #F19ED0 23.1%, #948DF2 44.99%, #B9C2FF 75.22%, #FBCEA5 101.86%);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: -7%;
+}
+
+@media only screen and (max-width: 990px) {
+    #homeMain{
+        flex-direction: column;
+        width: 100%;
+        align-items: center;
+    }
+    #homeMainText2{
+        margin-right: 0%;
+        align-items:center;
+        justify-content: center;
+        margin-top: 20%;
+    }
+    #text1{
+        font-size: 9.5vw;
+    }
+    #text2{
+        font-size: 3.5vw;
+    }
+    #aboutMain{
+        padding: 0;
+    }
+    #aboutH1{
+        height: auto;
+        max-width: 40%;
+        margin-top: 5%;
+        padding-left: 5%;
+    }
+    #aboutText{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    #aboutText{
+        width: 100%;
+        font-size: 20px;
+        padding: 0px;
+        flex-direction: column-reverse;
+    }
+    div p{
+        font-size: 4.1vw;
+    }
+    #aboutImg{
+        width: 70%;
+    }
+    #aboutAbout{
+        margin-bottom: 5%;
+    }
+  }

@@ -11,7 +11,7 @@
         integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
     <link rel="stylesheet" href="css/home.css">
     <link rel="stylesheet" href="css/teams.css">
-
+    <link href='https://fonts.googleapis.com/css?family=DM Sans' rel='stylesheet'>
     <title>MLSA SRM NCR</title>
 </head>
 
@@ -41,30 +41,42 @@
             </ul>
         </div>
     </nav>
-    <div class="d-flex justify-content-between" style="height: 100vh;">
-        <img src="img/logo.png" class=" p-2"
-            style="width: 342px; height: 330px; margin-left: 130px; margin-top: 200px;">
-        <div class="d-flex flex-column">
-            <img src="img/MLSA, SRM.png" class="p-2 mr-5"
-                style="width: 750px; height: 143px; margin-top: 250px;">
-            <img src="img/Ghaziabad Modinagar Campus.png" class="mr-5" alt=""
-                style="height: 63px;">
-            <img src="img/arrow.png" style="height: 100px; width: 50px; margin-left: 50vh; margin-top: 10vh;">
+    <div id="homeMain" style="height: auto; display: flex; justify-content: space-between; margin: 10% 0 15% 0 ;">
+        <div style="width: 50%; justify-content: center; align-items: center; display: flex;">
+            <img src="img/logo3.png" style="max-width: 100%; height: auto;">
+        </div>
+        <div id="homeMainText" style="display: flex; align-items: center; justify-content: center; width: 50%;">
+            <div id="homeMainText2" class="d-flex flex-column">
+                <P id="text1">MLSA, SRM</P>
+                <P id="text2">Ghaziabad Modinagar Campus</P>
+                <div style="display: flex; justify-content: center; align-items: center;">
+                    <img id="text3" src="img/arrow.png"
+                        style="height: auto; max-width: 8%; padding-left: 0%; margin-top: 10%;">
+                </div>
+            </div>
         </div>
     </div>
-    <div class="d-flex justify-content-around" style="color: #FCFAF1; background-color: #3B444B !important;z-index: 2; height: 65vh;">
-        <div style="width: 50%;">
-            <img src="img/About.svg" class="mt-5 pt-5">
-            <p class="pt-5"
-                style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-weight: 700; font-size: 24px;">
-                Microsoft MLSA Club SRM is a technical club, under the wing of Microsoft Learn Student Ambassadors,
-                showcasing and nurturing talents under the well known and esteemed name of the organisation, to carry
-                forth and express it's legacy. We conduct events all over campus (and outside campus), inspiring
-                students to pursue knowledge, in their own unique ways. Along with this, we aspire to give the push they
-                need through our club's work, and through training in the various domains that we provide.</p>
+    <div id="aboutMain"
+        style="color: #FCFAF1; background-color: #3B444B !important;z-index: 2; height: auto; padding: 7% 0 5% 0; display: flex; justify-content: center; flex-direction: column;">
+        <div id="aboutAbout">
+        <img id="aboutH1" src="img/About.svg" style="height: auto; width: auto; margin-right: 80%; margin-left: 5%; text-align: left;">
         </div>
-        <div class="pt-5" style="width: 30%;">
-            <img src="img/grp 1.png" alt="">
+        <div id="aboutText"
+            style="max-width: 100%; display: flex; justify-content: center; align-items: center;">
+            <div style="display: flex; align-items: center; justify-content: center; width: 80%; padding-right: 5%; margin-left: 5%;">
+                <p class="pt-5"
+                    style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-weight: 700; font-size: calc(0.9vw + 0.9vh + 0.5vmin); text-align: justify;">
+                    Microsoft MLSA Club SRM is a technical club, under the wing of Microsoft Learn Student Ambassadors,
+                    showcasing and nurturing talents under the well known and esteemed name of the organisation, to
+                    carry
+                    forth and express it's legacy. We conduct events all over campus (and outside campus), inspiring
+                    students to pursue knowledge, in their own unique ways. Along with this, we aspire to give the push
+                    they
+                    need through our club's work, and through training in the various domains that we provide.</p>
+            </div>
+            <div id="aboutImg" class="pt-5" style="max-width: 70%; width: 66%; display: flex; align-items: center; justify-content: center;">
+                <img src="img/grp 1.png" alt="" style="height: auto; max-width: 100%;">
+            </div>
         </div>
     </div>
     <!-- Optional JavaScript -->

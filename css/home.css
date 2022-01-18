@@ -65,44 +65,54 @@ html {
         width: 100%;
         align-items: center;
     }
+    
     #homeMainText2{
         margin-right: 0%;
         align-items:center;
         justify-content: center;
         margin-top: 20%;
     }
+    
     #text1{
         font-size: 9.5vw;
     }
+    
     #text2{
         font-size: 3.5vw;
     }
+    
     #aboutMain{
         padding: 0;
     }
+    
     #aboutH1{
         height: auto;
         max-width: 40%;
         margin-top: 5%;
         padding-left: 5%;
     }
+    
     #aboutText{
         flex-direction: column;
         justify-content: center;
         align-items: center;
     }
+    
     #aboutText{
         width: 100%;
         font-size: 20px;
         padding: 0px;
         flex-direction: column-reverse;
     }
+    
     div p{
         font-size: 4.1vw;
     }
+    
     #aboutImg{
         width: 70%;
     }
+    
     #aboutAbout{
         margin-bottom: 5%;
     }

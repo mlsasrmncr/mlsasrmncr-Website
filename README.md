@@ -9,6 +9,7 @@
 Microsoft MLSA Club SRM is a technical club, under the wing of Microsoft Learn Student Ambassadors, showcasing and nurturing talents under the well known and esteemed name of the organisation, to carry forth and express it's legacy. We conduct events all over campus (and outside campus), inspiring students to pursue knowledge, in their own unique ways. Along with this, we aspire to give the push they need through our club's work, and through training in the various domains that we provide.
 
 [Website link](https://mlsasrmncr.github.io/)
+
 <hr>
 
 # Our Team Leads 🌟
@@ -32,11 +33,10 @@ Associate Corporate Lead: [Pallav Verma](https://github.com/Pallav14730) & [Darp
 
 **Github Management Team** ⚙️✨
 
-[Khushi Sharma](https://github.com/Khushi-sharma07) | 
-[Harshit Singh](https://github.com/HarshuSingh) | 
-[Abhinav Rajput](https://github.com/AbhinavRajputEXE) | 
-[Devanshu Sinha](https://github.com/ArthrowAbstract)
-
+* _[Abhinav Rajput](https://github.com/AbhinavRajputEXE)_
+* _[Devanshu Sinha](https://github.com/ArthrowAbstract)_
+* _[Khushi Sharma](https://github.com/Khushi-sharma07)_
+* _[Harshit Singh](https://github.com/HarshuSingh)_
 
 <hr>
 

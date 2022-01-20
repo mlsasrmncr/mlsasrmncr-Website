@@ -13,23 +13,23 @@ Microsoft MLSA Club SRM is a technical club, under the wing of Microsoft Learn S
 <hr>
 
 # Our Team Leads 🌟
-President 👑  [Aman Bhatt](https://github.com/bhattcodes) 
+* President 👑  [Aman Bhatt](https://github.com/bhattcodes) 
 
-Technical Team Lead 👨‍💻 [Vinayak Raj](https://github.com/vinayak0127)
+* Technical Team Lead 👨‍💻 [Vinayak Raj](https://github.com/vinayak0127)
 
-Creative Team Lead 😎 [Abhinandan Katoch](http://github.com/abhinandankatoch)
+* Creative Team Lead 😎 [Abhinandan Katoch](http://github.com/abhinandankatoch)
 
-Corporate Lead 👨‍💼 [Kartik Srivardhan](https://github.com/Cartikx3)
+* Corporate Lead 👨‍💼 [Kartik Srivardhan](https://github.com/Cartikx3)
 
-Club Advisor 👨‍🎓 [Ankit Pathak](https://github.com/GAAROS)
+* Club Advisor 👨‍🎓 [Ankit Pathak](https://github.com/GAAROS)
 
-Club Secretary 🙎 Shruti Bibra & Srishti Alhawat
+* Club Secretary 🙎 Shruti Bibra & Srishti Alhawat
 
-Associate Club Advisor: [Anurag Podder](https://github.com/drkanurag)
+* Associate Club Advisor: [Anurag Podder](https://github.com/drkanurag)
 
-Associative Creative Lead: Nitin Chaudhary
+* Associative Creative Lead: Nitin Chaudhary
 
-Associate Corporate Lead: [Pallav Verma](https://github.com/Pallav14730) & [Darpan Khanna](https://github.com/darpankhanna)
+* Associate Corporate Lead: [Pallav Verma](https://github.com/Pallav14730) & [Darpan Khanna](https://github.com/darpankhanna)
 
 **Github Management Team** ⚙️✨
 

@@ -23,6 +23,31 @@ body {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     background-color: #353535;
 }
+
+.btn-toolbar {
+    margin-left:7%;
+}
+
+ .btn-secondary{
+    background-color: #353535;
+    padding-right:20px ;
+    padding-left:20px ;   
+    padding-top:10px;
+    padding-bottom:10px;
+    align-self: center;
+}
+.card-title{
+    margin-bottom:0px;
+}
+.card-text {
+    font-style:italic;
+}
+.card-img-top{
+    border-radius: 50%;
+    width:171.59px;
+    height:171.59px;
+    
+}
 @media screen and (max-width: 1550px) {
     .teams-r2 .cards:nth-child(1) {
         display: none;

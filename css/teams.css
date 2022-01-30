@@ -1,1 +1,131 @@
+body {
+    background-color: #353535;
+}
+.teams {
+    width: 100%;
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    background-color: #353535;
+    margin-bottom: 5%;
+}
+.teams-r2 {
+    width: 100%;
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    background-color: #353535;
+}
+.teams-r3 {
+    width: 100%;
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    background-color: #353535;
+}
 
+.btn-toolbar {
+    margin-left: 7%;
+}
+
+.btn-secondary {
+    background-color: #353535;
+}
+.card-title {
+    margin-bottom: 0px;
+}
+.card-text {
+    font-style: italic;
+}
+.card-img-top {
+    border-radius: 50%;
+    width: 171.59px;
+    height: 171.59px;
+}
+@media screen and (max-width: 1550px) {
+    .teams-r2 .cards:nth-child(1) {
+        display: none;
+    }
+    .teams-r2 .cards:nth-child(5) {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 1550px) {
+    .teams-r2 .cards:nth-child(1) {
+        opacity: 0;
+    }
+    .teams-r2 .cards:nth-child(5) {
+        opacity: 0;
+    }
+    .teams-r2 .cards:nth-child(2) {
+        margin-right: 85%;
+    }
+    .teams-r2 .cards:nth-child(4) {
+        margin-left: 15%;
+    }
+}
+@media screen and (max-width: 1550px) {
+    .teams-r3 .cards:nth-child(1) {
+        display: none;
+    }
+    .teams-r3 .cards:nth-child(5) {
+        display: none;
+    }
+    .teams-r3 .cards:nth-child(4) {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 1550px) {
+    .teams-r3 .cards:nth-child(1) {
+        opacity: 0;
+    }
+    .teams-r3 .cards:nth-child(5) {
+        opacity: 0;
+    }
+    .teams-r3 .cards:nth-child(4) {
+        opacity: 0;
+    }
+    .teams-r3 .cards:nth-child(2) {
+        margin-left: 55%;
+    }
+    .teams-r3 .cards:nth-child(3) {
+        margin-left: 65%;
+    }
+    .teams-r3 .cards:nth-child(4) {
+        margin-left: 15%;
+    }
+}
+.cards {
+    grid-row: span 1 / auto;
+}
+
+.card {
+    margin-left: 10%;
+    background-color: #171717;
+    color: #fff;
+}
+.card img {
+    margin-left: 20%;
+    margin-top: 5%;
+}
+@media screen and (min-width: 1600px) {
+    .teams .cards:nth-child(1) {
+        margin-top: 25%;
+    }
+    .teams .cards:nth-child(5) {
+        margin-top: 25%;
+    }
+    .teams .cards:nth-child(2) {
+        margin-top: 10%;
+    }
+    .teams .cards:nth-child(4) {
+        margin-top: 10%;
+    }
+}
+@media screen and (max-width: 700px) {
+    .cards {
+        margin-left: 10%;
+    }
+}

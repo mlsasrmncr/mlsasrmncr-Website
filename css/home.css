@@ -1,5 +1,5 @@
-body { 
-    background: #353535 !important; 
+body {
+    background: #353535 !important;
 }
 html {
     overflow: scroll;
@@ -8,51 +8,67 @@ html {
     padding: 0;
 }
 ::-webkit-scrollbar {
-    width: 0;  /* Remove scrollbar space */
-    background: transparent;  /* Optional: just make scrollbar invisible */
+    width: 0; /* Remove scrollbar space */
+    background: transparent; /* Optional: just make scrollbar invisible */
 }
 /* Optional: show position indicator in red */
 ::-webkit-scrollbar-thumb {
-    background: #FF0000;
+    background: #ff0000;
 }
 
 /*Navbar*/
-.btn{
+nav .btn {
     padding: 0rem 1.25rem;
     margin: 1.2rem;
     text-align: auto;
 }
 
-.navbar{
+.navbar {
     padding: 0 7%;
 }
 
-.navbar-dark .navbar-nav .nav-link{
-    color: rgba(246, 246, 246, 0.5)y;
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(246, 246, 246, 0.5) y;
 }
 
-.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover{
+.navbar-dark .navbar-nav .nav-link:focus,
+.navbar-dark .navbar-nav .nav-link:hover {
     color: white;
 }
 
-#text1{
-    font-family: 'DM Sans'; font-style: normal;
+#text1 {
+    font-family: "DM Sans";
+    font-style: normal;
     font-weight: bold;
     font-size: 400px;
     font-size: 6.5vw;
-    background-image: linear-gradient(90.14deg, #BA7ECF 2.9%, #F19ED0 23.1%, #948DF2 44.99%, #B9C2FF 75.22%, #FBCEA5 101.86%);
+    background-image: linear-gradient(
+        90.14deg,
+        #ba7ecf 2.9%,
+        #f19ed0 23.1%,
+        #948df2 44.99%,
+        #b9c2ff 75.22%,
+        #fbcea5 101.86%
+    );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-size: 100%;
-    
 }
 
-#text2{
-    font-family: 'DM Sans'; font-style: normal;
+#text2 {
+    font-family: "DM Sans";
+    font-style: normal;
     font-weight: bold;
     font-size: 400px;
     font-size: 2.5vw;
-    background-image: linear-gradient(90.14deg, #BA7ECF 2.9%, #F19ED0 23.1%, #948DF2 44.99%, #B9C2FF 75.22%, #FBCEA5 101.86%);
+    background-image: linear-gradient(
+        90.14deg,
+        #ba7ecf 2.9%,
+        #f19ed0 23.1%,
+        #948df2 44.99%,
+        #b9c2ff 75.22%,
+        #fbcea5 101.86%
+    );
     background-size: 100%;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -60,60 +76,60 @@ html {
 }
 
 @media only screen and (max-width: 990px) {
-    #homeMain{
+    #homeMain {
         flex-direction: column;
         width: 100%;
         align-items: center;
     }
-    
-    #homeMainText2{
+
+    #homeMainText2 {
         margin-right: 0%;
-        align-items:center;
+        align-items: center;
         justify-content: center;
         margin-top: 20%;
     }
-    
-    #text1{
+
+    #text1 {
         font-size: 9.5vw;
     }
-    
-    #text2{
+
+    #text2 {
         font-size: 3.5vw;
     }
-    
-    #aboutMain{
+
+    #aboutMain {
         padding: 0;
     }
-    
-    #aboutH1{
+
+    #aboutH1 {
         height: auto;
         max-width: 40%;
         margin-top: 5%;
         padding-left: 5%;
     }
-    
-    #aboutText{
+
+    #aboutText {
         flex-direction: column;
         justify-content: center;
         align-items: center;
     }
-    
-    #aboutText{
+
+    #aboutText {
         width: 100%;
         font-size: 20px;
         padding: 0px;
         flex-direction: column-reverse;
     }
-    
-    div p{
+
+    div p {
         font-size: 4.1vw;
     }
-    
-    #aboutImg{
+
+    #aboutImg {
         width: 70%;
     }
-    
-    #aboutAbout{
+
+    #aboutAbout {
         margin-bottom: 5%;
     }
-  }
+}

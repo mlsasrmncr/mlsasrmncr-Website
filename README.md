@@ -39,5 +39,6 @@ Microsoft MLSA Club SRM is a technical club, under the wing of Microsoft Learn S
 <hr>
 # How To Contribute?🤔
 Don't know how to begin with your first contribution. Don't worry we got you covered. 
+
 Just check it out [**HERE**](https://github.com/mlsasrmncr/mlsasrmncr-Website/wiki)!! 💡
 

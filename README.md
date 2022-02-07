@@ -2,6 +2,7 @@
   <h1>Microsoft Learn Student Ambassadors Club SRM-NCR <img src="https://user-images.githubusercontent.com/80591258/149213592-fe481e19-1b83-47c3-89ae-68bd1790102f.png" width="31"></h1>
 <img src="https://github.com/mlsasrmncr/mlsasrmncr-Website/blob/main/img/mlsa-gif_logo.gif"></a>
 </p>
+
 <div style="page-break-after: always;"></div>
 
 # About MLSA Club SRM NCR 📜💡
